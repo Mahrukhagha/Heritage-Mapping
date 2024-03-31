@@ -1,2 +1,2 @@
 # Heritage-Mapping
-Historical Buildings of Nuremberg, Germany 
+Heritage Mapping with post world war damages maps of Nuremberg, Germany. 
